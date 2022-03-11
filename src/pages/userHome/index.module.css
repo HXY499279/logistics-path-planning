@@ -1,0 +1,13 @@
+.userHome {
+  width: 100%;
+  min-width: 600px;
+  height: 100%;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+}
+.home-content {
+  width: 100%;
+  flex-grow: 1;
+  background-color: #fcfcfc;
+}
